@@ -8,50 +8,74 @@
 
 ## ✨ Overview
 
-Transform raw expense data into a professional, interactive dashboard with a single click.
+This project demonstrates an automated **Excel Expense Dashboard** built using **VBA Automation**, **Pivot Tables**, **Pivot Charts**, and **Interactive Slicers**.
 
-This project automates the creation of an Excel Expense Dashboard using **VBA**, **Pivot Tables**, **Pivot Charts**, **Slicers**, and **AI-generated VBA code**, eliminating repetitive manual work while providing meaningful business insights.
+The dashboard converts raw expense data into an interactive report with a single click, helping users analyze spending patterns and key financial metrics efficiently.
+
+---
+
+## 📂 Project Files
+
+| File            | Description                                                                                                      |
+| --------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Data.xlsm**   | Main project file containing the automated dashboard, VBA macros, charts, pivot tables, and interactive reports. |
+| **Sample.xlsm** | Original raw expense dataset used as the source data before dashboard generation.                                |
 
 ---
 
 ## 🚀 Features
 
-* 📌 One-Click Dashboard Creation
-* 📈 Dynamic KPI Cards
-* 📊 Automated Pivot Tables
-* 🎯 Interactive Slicers
-* 📉 Dynamic Charts
-* 🔄 Automatic Data Processing
-* 💡 Clean & Professional Dashboard Design
+* One-Click Dashboard Creation
+* Automated Pivot Tables
+* Dynamic KPI Cards
+* Interactive Slicers
+* Expense Analysis
+* Monthly Spending Trends
+* Category-wise Breakdown
+* Dynamic Charts
+* Automated Reporting
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Technologies Used
 
-| Technology      | Purpose               |
-| --------------- | --------------------- |
-| Microsoft Excel | Dashboard Development |
-| VBA             | Automation            |
-| Pivot Tables    | Data Summarization    |
-| Pivot Charts    | Data Visualization    |
-| Slicers         | Interactive Filtering |
-| Claude AI       | VBA Code Generation   |
+* Microsoft Excel
+* VBA (Visual Basic for Applications)
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Data Visualization
 
 ---
 
-## 📊 Dashboard Insights
+## 📈 Dashboard Insights
 
-✔ Total Expenses
+* Total Expenses
+* Monthly Expense Trend
+* Category-wise Spending
+* Top Expense Categories
+* Interactive Filtering
+* Dynamic Reports
 
-✔ Monthly Spending Trend
+---
 
-✔ Category-wise Expenses
+## ▶️ How to Use
 
-✔ Top Spending Categories
+1. Download this repository.
+2. Open **Data.xlsm** in Microsoft Excel.
+3. Click **Enable Editing** (if prompted).
+4. Enable Macros.
+5. Run the dashboard automation (or click the assigned button, if available).
+6. Explore the interactive dashboard and reports.
 
-✔ Interactive Filtering
+> **Note:** `Sample.xlsm` contains the original source data used for generating the dashboard.
 
-✔ Dynamic Reports
+---
+
+## 📸 Dashboard Preview
+
+<img width="1260" height="456" alt="dashboard-vba" src="https://github.com/user-attachments/assets/c711300a-8676-47a3-9970-98e8d58ba41e" />
+
 
 ---
 
@@ -59,39 +83,11 @@ This project automates the creation of an Excel Expense Dashboard using **VBA**,
 
 * Excel Automation
 * VBA Programming
-* Dashboard Design
-* Business Intelligence
+* Dashboard Development
 * Data Analysis
 * Data Visualization
+* Business Intelligence
 * Report Automation
-* Data Cleaning
-
----
-
-## 📸 Dashboard Preview
-
-<img width="1260" height="456" alt="dashboard-vba" src="https://github.com/user-attachments/assets/6d260b67-0220-4206-a719-d4cfd60b90d1" />
-
-
----
-
-## 💼 Ideal Use Cases
-
-* Personal Expense Tracking
-* Business Expense Monitoring
-* Financial Reporting
-* Excel Dashboard Portfolio
-* Learning VBA Automation
-
----
-
-## 🌟 Project Highlights
-
-* ✅ AI-assisted VBA development
-* ✅ Fully automated dashboard creation
-* ✅ Interactive reports
-* ✅ Beginner-friendly implementation
-* ✅ Real-world Excel automation project
 
 ---
 
@@ -99,4 +95,4 @@ This project automates the creation of an Excel Expense Dashboard using **VBA**,
 
 **Riya Subhash Bhutal**
 
-If you found this project helpful, consider giving it a ⭐.
+If you found this project useful, consider giving it a ⭐.
