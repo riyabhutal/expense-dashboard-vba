@@ -20,7 +20,7 @@ The dashboard converts raw expense data into an interactive report with a single
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Data.xlsm**            | Main Excel workbook containing the automated expense dashboard, VBA macros, Pivot Tables, charts, and interactive reports.                                                    |
 | **Sample.xlsm**          | Original raw expense dataset used as the source data for dashboard creation.                                                                                                  |
-| **ExpensesDashboard.bas** | Exported VBA module containing the automation script responsible for generating the dashboard, creating Pivot Tables, charts, KPI cards, and other automated functionalities. |
+| **ExpensesDashboard_v2.bas** | Exported VBA module containing the automation script responsible for generating the dashboard, creating Pivot Tables, charts, KPI cards, and other automated functionalities. |
 
 
 ---
